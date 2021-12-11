@@ -7,7 +7,7 @@
 
 	<groupId>bdd</groupId>
 	<artifactId>Cukes</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Cukes</name>
 	<url>http://www.example.com</url>
