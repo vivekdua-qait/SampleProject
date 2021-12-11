@@ -10,7 +10,7 @@
 	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Cukes</name>
-	<url>http://www.bigdata.com</url>
+	<url>http://www.data.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
