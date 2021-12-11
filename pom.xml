@@ -10,7 +10,7 @@
 	<version>1.0.1-SNAPSHOT</version>
 
 	<name>Cukes</name>
-	<url>http://www.blabla.com</url>
+	<url>http://www.handler.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
