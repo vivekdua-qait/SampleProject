@@ -10,7 +10,7 @@
 	<version>1.1-SNAPSHOT</version>
 
 	<name>Cukes</name>
-	<url>http://www.ic.com</url>
+	<url>http://www.abc.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
